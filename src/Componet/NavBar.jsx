@@ -12,7 +12,7 @@ const NavBar = () => {
 
       <header className='header'>
         <nav className="navbar" >
-          <h2 className="logo"><a href="#">VerteX</a></h2>
+          <h2 className="logo"><a href="#">VerteX-work</a></h2>
           <div className="toggle-btn"></div>
 
           <ul className="links">
